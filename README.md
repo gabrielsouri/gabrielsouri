@@ -1,3 +1,3 @@
 
 # hacker mindset
-**Esse e um repo para Hacker mindset**
+**Esse é um repositório para Hacker mindset**
